@@ -23,6 +23,6 @@ The notebook demonstrates:
 - **Automata Modeling** – Representing robot states, actions, and transitions.
 - **Simulation of Motion** – Robot trajectories in 2D and 3D under different control strategies.
 - **Formal Analysis** – Checking reachability and safety conditions.
-- **Visualization** – 2D and 3D plots showing robot paths, safe zones, and goal regions.
+- **Visualization** – 2D and 3D plots showing robot paths, safe zones, and goal regions. 
 
 ---
